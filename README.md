@@ -1,2 +1,2 @@
 # ZHAW-Scientific-Programming-GroupProject
- how inflation effects stock returns 
+ how interest rates effects stock market returns 
