@@ -28,7 +28,7 @@ pdata.plot.scatter(x="SPY",
                    alpha=0.5,
                    c="blue")#alpha change de density of the point so we see more clearly
 
-#denition of the deciled variable
+#definition of the deciled variable
 plotdata = pdata[["SPY","TNX"]].groupby(pd.qcut(pdata["SPY"],10)).mean()
 
 #visualisation of the deciled variable
